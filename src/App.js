@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 import Block from "./Block";
 import "./index.scss";
 
